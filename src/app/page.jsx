@@ -15,7 +15,7 @@ const data_planes = [
             {
                 nombre: "Básico",
                 precioAnterior: 10000,
-                precioActual: 5500,
+                precioActual: 8500,
                 descuento: 70.83,
                 beneficios: [
                     "Acceso al catálogo en HD",
